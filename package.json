@@ -1,0 +1,19 @@
+{
+  "name": "css-scraper",
+  "version": "1.0.0",
+  "description": "A webscraper that can scrape the top used CSS values from a website",
+  "main": "cssStyles.js",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "hydral8",
+  "license": "ISC"
+}
